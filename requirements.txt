@@ -1,0 +1,21 @@
+# Core Web Framework
+streamlit>=1.30.0
+
+# PDF Extraction & Document Processing
+pymupdf>=1.23.0
+
+# Semantic Embeddings & NLP
+sentence-transformers>=2.2.2
+scikit-learn>=1.3.0
+
+# Graph Analytics & Interactive Visualization
+networkx>=3.0
+pyvis>=0.3.2
+
+# Data Handling & Utilities
+pandas>=2.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Automated Testing
+pytest>=7.4.0
